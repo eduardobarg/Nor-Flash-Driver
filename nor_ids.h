@@ -52,6 +52,7 @@ typedef enum{
 	// TODO write the Puya Codes
 
 	/* Microchip Codes */
+	SST26VF016B = 0x4126,
 	// TODO write the Microchip codes
 
 
